@@ -1,5 +1,3 @@
-Just some practice replicating a paper in Pytorch
-
 Paper replicated: Originial Vision Transformer Paper (https://arxiv.org/abs/2010.11929v2)
 
 # Classes
